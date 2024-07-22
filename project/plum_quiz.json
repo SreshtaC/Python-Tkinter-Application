@@ -1,0 +1,36 @@
+{
+    "question": [
+      "Q1. How many females (in millions) do not have access to menstrual products across the world?",
+      "Q2. Which country was first to make period products free for all?",
+      "Q3. Which of the following is a result of stereotypes/stigma surrounding menstruation?",
+      "Q4. What is PLUM's main goal? -- choose the best answer"
+    ],
+    "answer": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "options": [
+      ["100",
+        "2",
+        "500",
+        "80"
+      ],
+      ["Scotland",
+        "England", 
+        "France", 
+        "Denmark"
+      ],
+      ["Everyone understands the truth about how dirty periods are",
+        "Women can freely talk about their menstrual cycle and struggles",
+        "It's easy for females to fight against stereotypes and be understood",
+        "Stigma results in traditions such as chhaupadi that force females to stay away in a shed during their period"
+      ],
+      ["To distribute necessary items for men and women's health and hygiene",
+        "To Educate/Empower girls to overcome period-related stigma & inadequate facilities and attend School",
+        "To educate boys about menstruation and normalize it",
+        "To expand on the importance of eating healthy (fruits - Plums, etc) for females"
+      ]
+    ]
+  }
